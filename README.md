@@ -22,7 +22,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 * 🔘 Buttons & Bookmarks for Page Navigation
 * ➡️ Drill-Through Functionality
 
-[➡️ View Data_Jobs_v1 README](../Data_Jobs_v1/README.md)
+[➡️ View Data Jobs v1 README](./Data_Jobs_v1/README.md)
 
 ---
 
